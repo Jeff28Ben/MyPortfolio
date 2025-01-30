@@ -52,11 +52,11 @@ body {
 }
 
 .header .navigation ul li {
-    transition: transform 200ms;
+    transition: transform 20ms;
 }
 
 .header .navigation ul li:hover {
-    transform: translateY(-8px) rotate(-5deg);
+    transform: translateY(-1px) rotate(-5deg);
     border-bottom: 2px double aqua;
 }
 
